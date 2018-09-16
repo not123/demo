@@ -1,2 +1,3 @@
-    echo "ทดสอบ GET";
-    echo "ทดสอบ 1";
+<?php
+echo "DEMO";
+?>
