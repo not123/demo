@@ -1,1 +1,2 @@
-echo "ทดสอบ GET";
+    echo "ทดสอบ GET";
+    echo "ทดสอบ 1";
